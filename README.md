@@ -1,17 +1,26 @@
+<div align="center">
 
-# Diego Larrabeiti Masip
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Diego%20Larrabeiti%20Masip&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20IA%20%26%20Big%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Diego Larrabeiti Masip" />
 
-**Desarrollador Full-Stack en formación · DAM**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+DAM;Especializaci%C3%B3n+en+IA+y+Big+Data;Java+%7C+Kotlin+%7C+TypeScript+%7C+Python;Construyendo+proyectos+end-to-end" alt="Técnico Superior en DAM, especialización en IA y Big Data" />
 
-Bilbao, España · [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) · [riomardiego@gmail.com](mailto:riomardiego@gmail.com)
+[Bilbao, España](https://www.google.com/maps/place/Bilbao) · [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) · [riomardiego@gmail.com](mailto:riomardiego@gmail.com)
+
+</div>
 
 ---
 
-Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en AI Somorrostro. Construyo proyectos completos, de la base de datos a la interfaz: apps Android en Kotlin, aplicaciones de gestión en TypeScript y plataformas de datos con Docker, InfluxDB y Grafana.
+**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente cursando la **especialización en Inteligencia Artificial y Big Data**. Construyo proyectos completos, de la base de datos a la interfaz: apps Android en Kotlin, aplicaciones de gestión en TypeScript y plataformas de datos con Docker, InfluxDB y Grafana.
 
 Me interesa el **desarrollo backend**, el **diseño de APIs**, la **calidad del software** y la **automatización**. Busco mi primera oportunidad profesional como desarrollador junior.
 
 ## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,py,mysql,docker,git,github,androidstudio,linux,grafana&theme=dark&perline=12" alt="Java, Kotlin, TypeScript, JavaScript, Python, SQL, Docker, Git, GitHub, Android Studio, Linux, Grafana" />
+
+<br/>
 
 **Lenguajes**
 
@@ -23,12 +32,12 @@ Me interesa el **desarrollo backend**, el **diseño de APIs**, la **calidad del 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Backend y datos**
+**Datos e IA**
 
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 
 **Herramientas**
 
@@ -37,6 +46,14 @@ Me interesa el **desarrollo backend**, el **diseño de APIs**, la **calidad del 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+## Aprendiendo ahora
+
+- **Inteligencia Artificial:** fundamentos de machine learning, scikit-learn y modelos supervisados.
+- **Big Data:** procesamiento distribuido con Spark, ecosistema Hadoop y bases de datos NoSQL.
+- **Datos:** análisis exploratorio con Pandas, visualización y calidad del dato.
 
 ## Proyectos destacados
 
@@ -64,12 +81,23 @@ Userscript para descargar apuntes de Wuolah sin esperas de publicidad, ejecutabl
 
 [Ver repositorio](https://github.com/ryodan14/Wuolah-Downloader)
 
-## Actualmente
+## Estadísticas de GitHub
 
-- Desarrollando mi TFG: aplicación Android en Kotlin.
-- Profundizando en backend, testing y buenas prácticas de diseño de software.
-- Abierto a oportunidades junior en desarrollo backend o full-stack.
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ryodan14&show_icons=true&hide_border=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de ryodan14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryodan14&layout=compact&hide_border=true&theme=transparent&locale=es" alt="Lenguajes más usados" />
 
-<sub>Bilbao, España · Disponible para prácticas y proyectos</sub>
+<img src="https://streak-stats.demolab.com?user=ryodan14&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+</div>
+
+## Contacto
+
+Estoy abierto a oportunidades junior en desarrollo backend o full-stack. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) o por correo a [riomardiego@gmail.com](mailto:riomardiego@gmail.com).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
+
+</div>
