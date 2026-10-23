@@ -94,7 +94,7 @@ Userscript para descargar apuntes de Wuolah sin esperas de publicidad, ejecutabl
 
 ## Contacto
 
-Estoy abierto a oportunidades junior en desarrollo backend o full-stack. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) o por correo a [riomardiego@gmail.com](mailto:riomardiego@gmail.com).
+Estoy abierto a oportunidades junior en desarrollo backend o full-stack. Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) o por correo a [larrabeitidiego@gmail.com](mailto:riomardiego@gmail.com).
 
 <div align="center">
 
