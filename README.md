@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+DAM;Especializaci%C3%B3n+en+IA+y+Big+Data;Java+%7C+Kotlin+%7C+TypeScript+%7C+Python;Construyendo+proyectos+end-to-end" alt="Técnico Superior en DAM, especialización en IA y Big Data" />
 
-[Bilbao, España](https://www.google.com/maps/place/Bilbao) · [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) · [larrabeitidiego@gmail.com](mailto:larrabeitidiego@gmail.com)
+[Castro-Urdiales, España](https://www.google.com/maps/place/Castro-Urdiales) · [LinkedIn](https://www.linkedin.com/in/diego-larrabeiti-masip-0837b6211/) · [larrabeitidiego@gmail.com](mailto:larrabeitidiego@gmail.com)
 
 </div>
 
